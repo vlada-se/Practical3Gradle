@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practical1.NumberToolsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-11-16T11:12:03.832Z" hostname="Vladas-MacBook-Pro.local" time="0.017">
+  <properties/>
+  <testcase name="testParse" classname="practical1.NumberToolsTest" time="0.006"/>
+  <testcase name="testComputeStatistic" classname="practical1.NumberToolsTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
