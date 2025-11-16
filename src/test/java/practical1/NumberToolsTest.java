@@ -35,6 +35,10 @@ public class NumberToolsTest {
 		expected = new double[] {67};
 		actual = NumberTools.parseString("67");
 		assertArrayEquals(expected, actual, TOLERANCE);
+
+        expected = new double[] {68};
+        actual = NumberTools.parseString("67");
+        assertArrayEquals(expected, actual, TOLERANCE);
 	}
 	
 	@Test
